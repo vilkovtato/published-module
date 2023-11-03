@@ -1,3 +1,3 @@
-module github.com/vilkovtato/published-module/v2 v2.0.0
+module github.com/vilkovtato/published-module/v2
 
 go 1.20
