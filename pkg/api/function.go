@@ -3,6 +3,6 @@ package api
 import "log"
 
 func LogInfo(message string) {
-	log.Printf("final version 2 string - %v", message)
+	log.Printf("final do kelu version 2 string - %v", message)
 }
 
